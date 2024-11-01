@@ -1,0 +1,7 @@
+<mvc:View controllerName="zappui.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="Application 2">
+        <content />
+    </Page>
+</mvc:View>
